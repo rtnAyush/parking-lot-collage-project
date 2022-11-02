@@ -1,0 +1,29 @@
+create_parking_lot 25
+park KA01R9980 white
+park KA01R9981 white
+park KA01R9982 white
+park KA01R9983 white
+park KA01R9984 white
+park KA01R9985 white
+park KA01R9986 white
+park KA01R9987 white
+park KA01R9988 white
+park KA01R9989 white
+park KA01R9990 red
+park KA01R9991 red
+park KA01R9992 red
+park KA01R9993 red
+park KA01R9994 red
+park KA01R9995 red
+park KA01R9996 red
+park KA01R9997 red
+park KA01R9998 red
+park KA01R9999 red
+park KA01R9901 black
+park KA01R9902 black
+park KA01R9903 black
+park KA01R9904 black
+park KA01R9905 black
+park KA01R9906 black
+park KA01R9907 black
+unpark KA01R9995
